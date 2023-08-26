@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
-- [Live version](https://your-live-site-url.com)
+- [Solution](https://github.com/majaton44/stats-preview-card-component-main)
+- [Live version](https://rainbow-stats-preview-card-component.netlify.app/)
 
 ## My process
 
